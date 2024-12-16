@@ -375,6 +375,7 @@ footer p{
 
 .c-icons img{
     transition: all 0.2s ease;
+    cursor: pointer;
 }
 
 .c-icons img:hover{
